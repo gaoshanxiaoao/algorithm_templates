@@ -12,7 +12,7 @@
 *.d
 *.ilk
 *.pdb
-build/      # 忽略 build 目录
-bin/        # 忽略 bin 目录
+/build/      # 忽略 build 目录
+/bin/        # 忽略 bin 目录
 
 
