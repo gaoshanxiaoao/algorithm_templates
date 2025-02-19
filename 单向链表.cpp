@@ -82,7 +82,6 @@ int main()
 	insertAtTail(18);
 	display();
 
-	cout <<"hello world"<<endl;
 
 
 
